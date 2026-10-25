@@ -1,0 +1,9 @@
+# 本机设置与备份，绝不入库
+config.json
+*.bak-*
+snapshots/
+tools/
+reference/
+*.zip
+.DS_Store
+Thumbs.db
